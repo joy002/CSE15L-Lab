@@ -27,9 +27,11 @@ See below:
 
 ---
 
-'block' say hi
+`block` say hi
 
-....block with multiple lines
+```
+block with multiple lines
 ....line 1
 ....line 2
 ....line 3
+```
