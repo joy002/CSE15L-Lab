@@ -1,5 +1,7 @@
 *Hello, world1*
 
+*Ita***Bold**
+
 **Hello world2**
 
 # Hello world3
@@ -27,13 +29,7 @@ See below:
 
 'block' say hi
 
-'''
-block with multiple lines
-
-line 1
-
-line 2
-
-line 3
-
-'''
+....block with multiple lines
+....line 1
+....line 2
+....line 3
